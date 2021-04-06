@@ -12,7 +12,7 @@ public class TestClass {
 
     public static  void add_test(int firstNumber ,int secondNumber)
     {
-        int output =0;
+        int result =0;
         //assertEquals(output ,Main.add(firstNumber , secondNumber));
         assertEquals(4 ,Main.add(2 , 2));
 
